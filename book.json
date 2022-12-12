@@ -1,0 +1,50 @@
+{
+	"title":"CircleO - 虚拟商业空间",
+	"plugins": [
+		"-lunr",
+		"-search",
+		"search-plus",
+		"multilingual-index",
+		"-livereload",
+		"-custom-favicon",
+		"-insert-logo",
+		"-favicon",
+		"-chapter-fold",
+		"splitter",
+		"disqus",
+		"-anchor-navigation-ex",
+		"versions-select"
+		], 
+	"pluginsConfig": { 
+		"favicon":"./favic.ico",
+		"links": {
+			"sidebar": {
+				"查看官网": "http://circleo.me"
+			}
+		},
+		"disqus":{
+			"shortName":"gitbookuse"
+		},
+		"multilingual-index": 
+		{ 
+			"enableSuper": false, 
+			"index":"index.html" 
+		},
+		"versions": {
+            "options": [
+                {
+                    "value": "../cn/",
+                    "text": "中文"
+                },
+				{
+                    "value": "../jp/",
+                    "text": "日本语"
+                },
+				{
+                    "value": "../en/",
+                    "text": "English"
+                }
+            ]
+        }
+	} 
+}
