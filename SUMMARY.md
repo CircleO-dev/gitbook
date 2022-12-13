@@ -2,6 +2,7 @@
 
 * [回到官网](https://www.circleo.me)
 * [选择语言](README.md)
+* [👋 概要](gai-yao.md)
 
 ## 场景
 
