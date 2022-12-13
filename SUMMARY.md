@@ -1,7 +1,7 @@
 # Table of contents
 
 * [回到官网](https://www.circleo.me)
-* [语言](README.md)
+* [选择语言](README.md)
 
 ## 场景
 
