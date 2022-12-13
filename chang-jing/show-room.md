@@ -1,3 +1,0 @@
-# 🍄 show room
-
-show room

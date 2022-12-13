@@ -2,7 +2,7 @@
 description: CircleO - virtual business show room
 ---
 
-# 👋 概要
+# 概要
 
 circleO通过语音、视频和场景交互技术，为团队搭建面对面的虚拟展示、交谈空间。
 
